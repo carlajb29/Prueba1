@@ -1,2 +1,2 @@
 # Prueba1
-Prueba
+# Este es un proyecto GIT
